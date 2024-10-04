@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey, I'm Tr0llMan!
 
-<!--
-**Tr0llMan/Tr0llMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Back-End Developer** and **Solo Game Developer**, always exploring new technologies and pushing boundaries.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ **Back-End Developer**
+> I love building efficient, scalable systems to power awesome applications. 
+
+### Tech Stack:
+- 🐍 **Python**
+- 🌙 **Lua**
+- 🛢️ **MySQL**
+- ☁️ **AWS**
+- 🐳 **Docker**
+
+---
+
+## 🎮 **Solo Game Developer**
+> In my free time, I develop games that merge fun mechanics with cool stories. 
+
+### Game Development Tools:
+- 🛠️ **Unity**
+- 🕹️ **RBXL Studio** (Roblox Studio)
+
+---
+
+## 📈 **GitHub Stats**
+![Tr0llMan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tr0llMan&show_icons=true&theme=radical)
+
+---
+
+## 💬 **Let's Chat!**
+I'm always up for discussing tech, gaming, or new projects! Feel free to reach out or check out some of my work.
+
+- **Discord**: `tr0llman`
+- **Twitter**: [@Tr0llMan_](https://x.com/Tr0llMan_)
+
+---
+
+## 🔧 **Fun Command Line**
+```bash
+$ whoami
+> Tr0llMan: Back-End Dev & Solo Game Developer
+
+$ skills --backend
+> Python, Lua, MySQL, AWS, Docker
+
+$ skills --game-dev
+> Unity, RBXL Studio
+
+$ status
+> 🚀 Ready to take on new challenges!
